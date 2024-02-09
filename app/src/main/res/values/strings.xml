@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Master</string>
+    <string name="app_name">Conversores</string>
+    <string-array name="spnLongitud">
+        <item>Metro</item>
+        <item>Cm</item>
+        <item>Pulgada</item>
+        <item>Pie</item>
+        <item>Vara</item>
+        <item>Yarda</item>
+        <item>Km</item>
+        <item>Milla</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
